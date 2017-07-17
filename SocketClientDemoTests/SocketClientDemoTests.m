@@ -1,6 +1,6 @@
 //
-//  SocketClietDemoTests.m
-//  SocketClietDemoTests
+//  SocketClientDemoTests.m
+//  SocketClientDemoTests
 //
 //  Created by Start on 2017/7/17.
 //  Copyright © 2017年 het. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface SocketClietDemoTests : XCTestCase
+@interface SocketClientDemoTests : XCTestCase
 
 @end
 
-@implementation SocketClietDemoTests
+@implementation SocketClientDemoTests
 
 - (void)setUp {
     [super setUp];

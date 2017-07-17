@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C9B8B9561F1C690900C70A66"
-               BuildableName = "SocketClietDemo.app"
-               BlueprintName = "SocketClietDemo"
-               ReferencedContainer = "container:SocketClietDemo.xcodeproj">
+               BlueprintIdentifier = "C9AB2A271F1CAD04006DCBBE"
+               BuildableName = "SocketClientDemo.app"
+               BlueprintName = "SocketClientDemo"
+               ReferencedContainer = "container:SocketClientDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C9B8B96F1F1C690900C70A66"
-               BuildableName = "SocketClietDemoTests.xctest"
-               BlueprintName = "SocketClietDemoTests"
-               ReferencedContainer = "container:SocketClietDemo.xcodeproj">
+               BlueprintIdentifier = "C9AB2A401F1CAD04006DCBBE"
+               BuildableName = "SocketClientDemoTests.xctest"
+               BlueprintName = "SocketClientDemoTests"
+               ReferencedContainer = "container:SocketClientDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C9B8B97A1F1C690900C70A66"
-               BuildableName = "SocketClietDemoUITests.xctest"
-               BlueprintName = "SocketClietDemoUITests"
-               ReferencedContainer = "container:SocketClietDemo.xcodeproj">
+               BlueprintIdentifier = "C9AB2A4B1F1CAD04006DCBBE"
+               BuildableName = "SocketClientDemoUITests.xctest"
+               BlueprintName = "SocketClientDemoUITests"
+               ReferencedContainer = "container:SocketClientDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C9B8B9561F1C690900C70A66"
-            BuildableName = "SocketClietDemo.app"
-            BlueprintName = "SocketClietDemo"
-            ReferencedContainer = "container:SocketClietDemo.xcodeproj">
+            BlueprintIdentifier = "C9AB2A271F1CAD04006DCBBE"
+            BuildableName = "SocketClientDemo.app"
+            BlueprintName = "SocketClientDemo"
+            ReferencedContainer = "container:SocketClientDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C9B8B9561F1C690900C70A66"
-            BuildableName = "SocketClietDemo.app"
-            BlueprintName = "SocketClietDemo"
-            ReferencedContainer = "container:SocketClietDemo.xcodeproj">
+            BlueprintIdentifier = "C9AB2A271F1CAD04006DCBBE"
+            BuildableName = "SocketClientDemo.app"
+            BlueprintName = "SocketClientDemo"
+            ReferencedContainer = "container:SocketClientDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C9B8B9561F1C690900C70A66"
-            BuildableName = "SocketClietDemo.app"
-            BlueprintName = "SocketClietDemo"
-            ReferencedContainer = "container:SocketClietDemo.xcodeproj">
+            BlueprintIdentifier = "C9AB2A271F1CAD04006DCBBE"
+            BuildableName = "SocketClientDemo.app"
+            BlueprintName = "SocketClientDemo"
+            ReferencedContainer = "container:SocketClientDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
